@@ -1,0 +1,191 @@
+{
+    "basics": {
+      "name": "JC van der Merwe",
+      "label": "Full Stack Web Developer",
+      "image": "../assets/profile_pic.jpg",
+      "email": "jcvdmerwe03@gmail.com",
+      "phone": "+27 (66) 224-8156",
+      "url": "https://jc03ceige.github.io/JC_van_der_Merwe/",
+      "summary": "A summary of John Doe…",
+      "location": {
+        "address": "19 Edward Cl",
+        "postalCode": "7560",
+        "city": "Brackenfell",
+        "countryCode": "RSA",
+        "region": "Western Cape"
+      },
+      "profiles": [{
+        "network": "gitHub",
+        "username": "JC_vd_Merwe_03",
+        "url": "https://github.com/JC03Ceige"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "JC van der Merwe",
+        "url": "https://www.linkedin.com/in/jc-van-der-merwe-0a565860/"
+      },
+      {
+        "network": "Twitter",
+        "username": "JC van der Merwe",
+        "url": "https://twitter.com/JCvanderMerwe4"
+      }]
+    },
+    "work": [{
+      "name": "Capitec Bank",
+      "position": "Acting Branch Manager",
+      "url": "https://www.capitecbank.co.za/",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+        "name": "Capitec Bank",
+        "position": "Assistant Branch Manager",
+        "url": "https://www.capitecbank.co.za/",
+        "startDate": "2013-01-01",
+        "endDate": "2014-01-01",
+        "summary": "Description…",
+        "highlights": [
+          "Started the company"
+        ]
+      },{
+        "name": "Capitec Bank",
+        "position": "Consultant",
+        "url": "https://www.capitecbank.co.za/",
+        "startDate": "2013-01-01",
+        "endDate": "2014-01-01",
+        "summary": "Description…",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "Exclusive Books",
+        "position": "President",
+        "url": "https://company.com",
+        "startDate": "2013-01-01",
+        "endDate": "2014-01-01",
+        "summary": "Description…",
+        "highlights": [
+          "Started the company"
+        ]
+      }],
+    "volunteer": [{
+      "organization": "A21",
+      "position": "Volunteer",
+      "url": "https://www.a21.org/",
+      "startDate": "2017-01-01",
+      "endDate": "2018-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "HyperionDev",
+      "url": "https://www.hyperiondev.com/",
+      "area": "Web Development",
+      "studyType": "Bootcamp",
+      "startDate": "2021-10-05",
+      "endDate": "2022-01-19",
+      "score": "4.0",
+      "courses": [
+        "Full Stack Web Development"
+      ]
+    },
+    {
+        "institution": "AIE",
+        "url": "https://www.aie.ac/",
+        "area": "Software Development",
+        "studyType": "Certificate",
+        "startDate": "2019-07-01",
+        "endDate": "2021-01-31",
+        "score": "-",
+        "courses": [
+          "C#", "MS SQL", "Azure"
+        ]
+      },
+      {
+        "institution": "UNISA",
+        "url": "https://www.unisa.ac.za/",
+        "area": "Business Law",
+        "studyType": "Bachelor of Commerce with Law",
+        "startDate": "2021-10-05",
+        "endDate": "2022-01-19",
+        "score": "4.0",
+        "courses": [
+          "Full Stack Web Development"
+        ]
+      },
+      {
+        "institution": "HyperionDev",
+        "url": "https://www.hyperiondev.com/",
+        "area": "Web Development",
+        "studyType": "Bootcamp",
+        "startDate": "2021-10-05",
+        "endDate": "2022-01-19",
+        "score": "4.0",
+        "courses": [
+          "Full Stack Web Development"
+        ]
+      }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [{
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "Project",
+      "description": "Description…",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "keywords": [
+        "HTML"
+      ],
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "url": "https://project.com/",
+      "roles": [
+        "Team Lead"
+      ],
+      "entity": "Entity",
+      "type": "application"
+    }]
+  }
+  
