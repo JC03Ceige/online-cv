@@ -14,7 +14,7 @@ const Profile = props => {
     const { profileData } = props
 
     return (
-        <>
+        <section className="profile">
             <span className="avi"><img src={ Avi }/></span>
             <h1>{ profileData.name }</h1>
             <h2>{ profileData.label }</h2>
@@ -32,7 +32,7 @@ const Profile = props => {
                 <li><a className="linkedin" href={ profileData.profiles[1].url }><BsLinkedin className="icon"/>linkedIn</a></li>
                 <li><a className="twitter" href={ profileData.profiles[2].url }><BsTwitter className="icon"/>twitter</a></li>
             </ul>
-        </>
+        </section>
     )
 }
 

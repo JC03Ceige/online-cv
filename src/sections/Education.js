@@ -42,7 +42,7 @@ const Education = props => {
     })
 
     return (
-        <section>
+        <section className="education">
             <h2><IoMdSchool/> Education</h2>
             { getEducation }
         </section>

@@ -15,10 +15,10 @@ const Skills = props => {
     })
 
     return (
-        <>
+        <section className="skills">
             <h2><BsTools/> Skills</h2>
             { getSkills }
-        </>
+        </section>
     )
 }
 

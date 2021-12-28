@@ -27,9 +27,7 @@ const App = props => {
         <main>
           <About aboutData={ aboutData }/>
           <Skills skillsData={ skillsData } />
-          <section className='education'>
           <Education educationData={ educationData } />
-          </section>
           <Work workData={ workData }/>
         </main>
       </div>
