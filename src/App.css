@@ -1,37 +1,52 @@
+/* This styling ensures that text for the entire App is centered and has the same look. */
 .App {
   text-align: center;
 }
 
+/* Change the size of h1 headings. */
 h1 {
   font-size: 2.5em;
 }
 
+/* Change the size of h2 headings and the spacing on the left
+with margin-left negative value. */
 h2 {
   font-size: 2em;
   margin-left: -1em;
 }
 
+/* Specify the bottom spacing with margin-bottom. */
 h3 {
   margin-bottom: 0.5em;
 }
 
+/* Eliminate styling for all list items. */
 li {
   list-style:none;
 }
 
+/* Apply container relevant sizing to image by using width %.
+Profile images are generally in circles, border-radius 50% achieves this.
+Also, we make the image stand out by applying a soft, almost undetectable, box-shadow.*/
 img {
   width: 80%;
   border-radius: 50%;
+  box-shadow: 1px 1px 5px rgb(146, 160, 172);
 }
 
+/* Ensure that links are underlined by explicitly setting text-decoration. */
 a {
-  text-decoration: underline;
+  text-decoration: underline .5px;
 }
 
+/* Links are styled to be black, even after visited, which is not as per convention for links. */
 a:link, a:visited {
   color: black;
 }
 
+/* We do not Bootstrap for this project and need to apply grid styling to the page. 
+The container has a display grid and then we specify and name the grid areas which we will
+then use at a later stage to place them on the page. */
 .container {
   display: grid;
   grid-gap: 5px;
@@ -42,6 +57,9 @@ a:link, a:visited {
   width: 100%;
   margin: 0 auto;
 }
+
+/* The media selector is used to specify screen dynamics for the screen at varying 
+width thresholds, namely  500px and 992px*/
 @media (min-width: 500px) {
   .container {
     grid-template-columns: 1fr 30%;
@@ -60,6 +78,10 @@ a:link, a:visited {
     width: 1170px;
   }
 }
+
+/* Here we set the position for the main element and use top, left and transform
+to center the element absolutely. 
+Note the grid-area is named here.*/
 main {
   grid-area: main;
   position: relative;
@@ -68,15 +90,15 @@ main {
   transform: translate(-50%, -50%);
   text-align: start;
 }
+
+/* This is used to style the aside element.
+Note the grid-area is named here. */
 aside {
   grid-area: aside;
   margin-top: 2rem;
 }
-aside .inner, main .inner {
-  background: rgb(196, 77, 77);
-  padding: 1rem;
-}
 
+/* Paragraph elements inside the aside section is given specific font-size. */
 aside p {
   font-size: 15px;
 }
@@ -85,14 +107,25 @@ aside li {
   margin: 1.5em 0.2em;
 }
 
+/* The following is used to determine what the layout and 
+active use of the social media badges will be like. */
+
+/* We target the socialMedia li elements specifically 
+to align them horizontally with inline-block. */
 ul.socialMedia li {
   display: inline-block;
 }
 
+/* Next we remove any automatic styling for the socialMedia links
+by setting text-decoration to none. */
 .socialMedia a {
   text-decoration: none !important;
 }
 
+/* To show the link is interactive, we add a hover effect with the simple 
+addition of a text shadow and underline.
+We also make the shadows larger to create the effect that the badge is 
+popping up. */
 .socialMedia a:hover {
   text-decoration: underline 0.5px white !important;
   text-shadow: 0.5px 0.5px 2.5px silver;
@@ -100,14 +133,21 @@ ul.socialMedia li {
               2px 2px 6px slategrey;
 }
 
+/* We align the text in the contact element to the left. */
 .contact {
   text-align: start;
 }
 
+/* We style icons sepereately to make it's placing with sibling
+elements more eye-catching. */
 .icon {
   margin: 0 0.5em;
 }
 
+/* We style the github badge to make it stand out more and use
+colors that people normally associate with the app.
+The inset box-shadow makes the badge appear 3 dimensional while the 
+slategrey box shadow allows it to stand out off the page. */
 .github {
   background-color: rgb(37, 228, 69);
   color: white !important;
@@ -117,6 +157,10 @@ ul.socialMedia li {
               1px 1px 4px slategrey;
 }
 
+/* We style the linkedin badge to make it stand out more and use
+colors that people normally associate with the app.
+The inset box-shadow makes the badge appear 3 dimensional while the 
+slategrey box shadow allows it to stand out off the page. */
 .linkedin {
   background-color: rgb(3, 56, 204);
   color: white !important;
@@ -126,6 +170,10 @@ ul.socialMedia li {
               1px 1px 4px slategrey;
 }
 
+/* We style the twitter badge to make it stand out more and use
+colors that people normally associate with the app.
+The inset box-shadow makes the badge appear 3 dimensional while the 
+slategrey box shadow allows it to stand out off the page. */
 .twitter {
   background-color: rgb(0, 154, 214);
   color: white !important;

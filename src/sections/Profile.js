@@ -9,10 +9,12 @@ import { BsPhone, BsGlobe, BsLinkedin, BsTwitter } from "react-icons/bs";
 import { FaGithubAlt, FaEnvelope } from "react-icons/fa";
 import { GoLocation } from "react-icons/go";
 
-// Create the component that will hold user profile details. Remember to use Capitalize the first letter of the component.
+// Create the component that will hold user profile details. We capitalize the first letter of the component.
 const Profile = props => {
+    // We use a deconstructed variable to declare props. This makes it easier to control the properties in App.js.
     const { profileData } = props
 
+    // Create the return element with JSX
     return (
         <section className="profile">
             <span className="avi"><img src={ Avi }/></span>
@@ -36,8 +38,10 @@ const Profile = props => {
     )
 }
 
+/* We specify that the object is required for this component */
 Profile.propTypes = {
     profileData: object.isRequired
 }
 
+// We export the component.
 export default Profile;

@@ -1,3 +1,6 @@
+// This component is not yet functional and will be used to relay data that has no material consequence
+
+/*
 import React from "react";
 
 const AboutItem = props => {
@@ -29,3 +32,6 @@ const AboutItem = props => {
         </>
     )
 }
+
+// We export the component.
+export default AboutItem; */
