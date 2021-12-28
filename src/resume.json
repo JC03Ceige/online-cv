@@ -6,7 +6,7 @@
       "email": "jcvdmerwe03@gmail.com",
       "phone": "+27 (66) 224-8156",
       "url": "https://jc03ceige.github.io/JC_van_der_Merwe/",
-      "summary": "A summary of John Doe…",
+      "summary": "Before I came across the Full-Stack Development starship, I traveled the universe across galaxies as wild as Film-Making, Business Law and Banking. There was always something not quite right with finding a balance between my extremely vast field of interests, my love for problem solving and applying systematic logic - while at the same time having an creative outlet. Needless to say, I never thought that my childhood hobbie of hacking games like Theme Hospital in DOS would turn out to embody a great deal of what I love doing. Now, with Full-Stack Web Development, I finally have the perfect vehicle to go wherever I want in this fantastical universe we live in",
       "location": {
         "address": "19 Edward Cl",
         "postalCode": "7560",
@@ -36,9 +36,10 @@
       "url": "https://www.capitecbank.co.za/",
       "startDate": "2013-01-01",
       "endDate": "2014-01-01",
-      "summary": "Description…",
+      "summary": ["See Assistant Branch Manager"],
       "highlights": [
-        "Started the company"
+        "The team has seen significant growth in reaching monthly targets and the branch is becoming more profitable on a steady inclining basis (December month, when I was managing the branch by myself, was one of our most profitable months in two years).",
+        "Systems that I have put in place has made the daily operation in the branch much more efficient and gives the team more structure and time in which to fulfil their roles. It has also granted them the freedom to go beyond their usual capacity."
       ]
     },
     {
@@ -47,30 +48,54 @@
         "url": "https://www.capitecbank.co.za/",
         "startDate": "2013-01-01",
         "endDate": "2014-01-01",
-        "summary": "Description…",
+        "summary": ["Managing and developing of profitable client relationships.",
+                   "Keeping up to date with the latest banking and company regulations, policies and procedures to ensure compliance.",
+                   "Making sure that I have expert knowledge of the company product offer and it stays in excellent form that I may assist my team members with any queries or difficulties they might have. This would mean that I will sometimes have to learn the smaller details of a new product in a fraction of the normal time frame as I will have to present this knowledge to my team and be able to support them.", 
+                   "Lead Team Learning Sessions on a weekly basis to train and develop the team in topics as wide as product advancement and sales to self-development and cohesive team productivity.",
+                   "Constantly build and sharpen my knowledge of market related product offers by competitors in order to make sure we keep offering the client the best possible option for their personal needs.",
+                   "Reviewing client loan applications to ensure that all credit regulation principles are adhered to and captured correctly.",
+                   "Reviewing all loan applications of the previous day done by consultants to ensure all laws and regulations have been adhered to.",
+                   "Ensuring FICA compliance for all new client accounts.",
+                   "Other miscellaneous tasks include; supervising service in the branch, ensuring that secondary tasks are completed, that all company rules and policies are adhered to, heading up start up meetings every morning and that clients get exceptional service from our entire team."],
         "highlights": [
-          "Started the company"
+          "Understanding and interpreting clients' needs is a key skill, and this was used regularly to diffuse heated situations to the point where the clients, instead of taking their business away from the company, walk away with a clear understanding of the situation and a positive, friendly demeaner towards the company."
         ]
-      },{
+      },
+      {
         "name": "Capitec Bank",
         "position": "Consultant",
         "url": "https://www.capitecbank.co.za/",
         "startDate": "2013-01-01",
         "endDate": "2014-01-01",
-        "summary": "Description…",
+        "summary": [
+                    "Managing and developing of sustainable client relationships through excellent client service.",
+                    "Adding to the Capitec Bank client base by identifying client needs and informing/offering them the most appropriate products to switch to Capitec Bank.",
+                    "Remaining up to date with available products and successfully marketing products to clients.",
+                    "Performing credit checks and ensuring FICA compliance.",
+                    "Other miscellaneous tasks such and filing, cash deposits, telemarketing and liaising with all other departments."        ],
         "highlights": [
-          "Started the company"
+          "Secondment: Branch Manager (Die Boord 15-17 Nov'17; Somerset Mall 16 Dec'17)",
+          "Secondment: Assistant Branch Manager (Stellmark 12 Feb-4 March'18; Somerset Mall 5 - 31 March '18)"
         ]
       },
       {
         "name": "Exclusive Books",
-        "position": "President",
+        "position": "Staff Manager, Banker, Bookseller",
         "url": "https://company.com",
         "startDate": "2013-01-01",
         "endDate": "2014-01-01",
-        "summary": "Description…",
+        "summary": [          
+          "Compilation of daily branch reports for head office on Excel and reconciling daily figures to ensure that they balance and providing concise and informative explanations when they don't.",
+          "Responsible for petty cash on hand and all store purchases.",
+          "I improved internal control procedures by implementing a double-counting system with cash ups to eliminating errors and thereby saving time and money.",
+          "Supervised staff members and ensured that correct procedures are consistently adhered to.",
+          "Managing of employee shift management and staff training.",
+          "Delegating daily tasks to staff members.",
+          "Informing and motivating staff members to reach daily targets and set team goals to encourage a sense of personal responsibility for the shop's performance.",
+          "Office supply management."
+        ],
         "highlights": [
-          "Started the company"
+          "Books, loads and loads of books."
         ]
       }],
     "volunteer": [{
@@ -112,79 +137,117 @@
         "institution": "UNISA",
         "url": "https://www.unisa.ac.za/",
         "area": "Business Law",
-        "studyType": "Bachelor of Commerce with Law",
-        "startDate": "2021-10-05",
-        "endDate": "2022-01-19",
-        "score": "4.0",
+        "studyType": "Bachelor of Commerce with Law / LLB",
+        "startDate": "2013-06-01",
+        "endDate": "-",
+        "score": "NA",
         "courses": [
-          "Full Stack Web Development"
+          "Introduction to Law",
+          "Business MGMT 1A & B",
+          "Quantitative Modelling 1",
+          "Commercial Law 1A",
+          "Financial Accounting Concepts, Principles & Procedures",
+          "Corporate Governance in Accountancy",
+          "Entrepreneurial Law",
+          "Principles of Taxation",
+          "Forensic Industrial Psychology",
+          "Economics 1A & B",
+          "English for Academic Purposes",
+          "Individual & Collective Labour Law",
+          "Law of Persons",          
+          "Culture as a Resource in the African Continent"
         ]
       },
       {
-        "institution": "HyperionDev",
-        "url": "https://www.hyperiondev.com/",
-        "area": "Web Development",
-        "studyType": "Bootcamp",
-        "startDate": "2021-10-05",
-        "endDate": "2022-01-19",
-        "score": "4.0",
+        "institution": "AFDA",
+        "url": "https://afda.co.za/",
+        "area": "Cinematography",
+        "studyType": "BA in Fine Arts(Motion Picture Medium)",
+        "startDate": "2008-01-01",
+        "endDate": "2009-12-31 (incomplete)",
+        "score": "NA",
         "courses": [
-          "Full Stack Web Development"
+          "Cinematography", 
+          "Production Design", 
+          "Screen Writing"
         ]
       }],
-    "awards": [{
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
-    }],
-    "publications": [{
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "https://publication.com",
-      "summary": "Description…"
-    }],
     "skills": [{
       "name": "Web Development",
-      "level": "Master",
+      "level": "Beginner",
       "keywords": [
+        "MERN",
         "HTML",
         "CSS",
         "JavaScript"
+      ]
+    },
+    {
+      "name": "App Development",
+      "level": "Beginner",
+      "keywords": [
+        ".Net",
+        "C#",
+        "Xamarin",
+        "Azure"
       ]
     }],
     "languages": [{
       "language": "English",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "Afrikaans",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "German",
+      "fluency": "Conversational"
     }],
     "interests": [{
-      "name": "Wildlife",
+      "name": "Outdoors",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Hiking",
+        "Mtn Biking",
+        "Swiming",
+        "Gardening"
+      ]
+    },
+    {
+      "name": "Reading",
+      "keywords": [
+        "Sci-Fi",
+        "Non-Fiction(Neuro/Behavioural-Sciences, Astronomy, Mathematics)",
+        "Fantasy",
+        "Horror"
       ]
     }],
     "references": [{
-      "name": "Jane Doe",
-      "reference": "Reference…"
+      "name": "Bernita November",
+      "reference": "(+27)82 883 7166"
     }],
     "projects": [{
-      "name": "Project",
-      "description": "Description…",
+      "name": "In progress",
+      "description": "Will tell you when it's happening…",
       "highlights": [
-        "Won award at AIHacks 2016"
+        "Going to be amazing"
       ],
       "keywords": [
-        "HTML"
+        "MERN-stack",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "JavaScript",
+        "HTML",
+        "CSS"
       ],
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "url": "https://project.com/",
+      "startDate": "NA",
+      "endDate": "NA",
+      "url": "NA",
       "roles": [
-        "Team Lead"
+        "Developer"
       ],
-      "entity": "Entity",
+      "entity": "-",
       "type": "application"
     }]
   }
